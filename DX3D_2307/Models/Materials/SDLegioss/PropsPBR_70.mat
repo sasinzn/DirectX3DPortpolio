@@ -1,0 +1,9 @@
+<Material Name="PropsPBR_70" Shader="Light/Light.hlsl">
+    <Texture Diffuse="Textures/Solid/WhiteDM.png" Specular="Textures/Solid/WhiteSM.png" Normal="Textures/Solid/WhiteNM.png"/>
+    <Property Shininess="20" HasNormalMap="0">
+        <Diffuse R="1" G="0.92159998" B="0.23139992" A="1"/>
+        <Specular R="0.2" G="0.2" B="0.2" A="1"/>
+        <Ambient R="0.2" G="0.2" B="0.2" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Property>
+</Material>

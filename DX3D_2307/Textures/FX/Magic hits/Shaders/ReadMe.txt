@@ -1,0 +1,1 @@
+Distortion shader dont work with LWRP and HDRP. It's better to delate it if you use LWRP or HDRP

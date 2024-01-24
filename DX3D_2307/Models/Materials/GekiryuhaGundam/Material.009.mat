@@ -1,0 +1,9 @@
+<Material Name="Material.009" Shader="Light/Light.hlsl">
+    <Texture Diffuse="Textures/Solid/White.png" Specular="Textures/Solid/White.png" Normal="Textures/Solid/White.png"/>
+    <Property Shininess="250" HasNormalMap="0">
+        <Diffuse R="0.439513" G="0.38393399" B="0.35573" A="1"/>
+        <Specular R="0.5" G="0.5" B="0.5" A="1"/>
+        <Ambient R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Property>
+</Material>

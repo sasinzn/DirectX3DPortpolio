@@ -1,0 +1,9 @@
+<Material Name="MissileTower" Shader="Light/Light.hlsl">
+    <Texture Diffuse="Textures\Model\missileTower\missl_lambert1_Diffuse.png" Specular="Textures\Model\missileTower\missl_lambert1_Specular.png" Normal="Textures\Model\missileTower\missl_lambert1_Normal.png"/>
+    <Property Shininess="0" HasNormalMap="1">
+        <Diffuse R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Specular R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Property>
+</Material>

@@ -1,0 +1,9 @@
+<Material Name="Alpha_Joints_MAT" Shader="Light/NormalMapping.hlsl">
+    <Texture Diffuse="Textures/Solid/White.png" Specular="Textures/Solid/White.png" Normal="Textures/Solid/White.png"/>
+    <Property Shininess="2" HasNormalMap="0">
+        <Diffuse R="0.12284123" G="0.1703151" B="0.17777371" A="1"/>
+        <Specular R="0.28204775" G="0.28204775" B="0.28204775" A="1"/>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Property>
+</Material>

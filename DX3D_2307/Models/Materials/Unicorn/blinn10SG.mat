@@ -1,0 +1,9 @@
+<Material Name="blinn10SG" Shader="Light/Light.hlsl">
+    <Texture Diffuse="Textures/Solid/WhiteDM.png" Specular="Textures/Solid/WhiteSM.png" Normal="Textures/Solid/WhiteNM.png"/>
+    <Property Shininess="20" HasNormalMap="0">
+        <Diffuse R="0" G="0" B="0" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Property>
+</Material>
